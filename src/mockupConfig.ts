@@ -19,7 +19,7 @@ export const mockups: MockupConfig[] = [
   {
     id: 'mockup1',
     name: '목업 1',
-    image: '/mockups/mockup.png',
+    image: './mockups/mockup.png',
     canvasSize: {
       width: 1108,
       height: 2250
