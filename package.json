@@ -1,7 +1,7 @@
 {
   "name": "mockup-maker",
   "version": "0.1.0",
-  "homepage": "https://he-dable.github.io/Mockup-maker",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
