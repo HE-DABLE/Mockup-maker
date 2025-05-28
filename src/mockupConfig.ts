@@ -19,7 +19,7 @@ export const mockups: MockupConfig[] = [
   {
     id: 'mockup1',
     name: '목업 1',
-    image: './mockups/mockup.png',
+    image: 'https://he-dable.github.io/Mockup-maker/mockups/mockup.png',
     canvasSize: {
       width: 1108,
       height: 2250
@@ -35,7 +35,7 @@ export const mockups: MockupConfig[] = [
   {
     id: 'mockup2',
     name: '목업 2',
-    image: '/mockups/mockup2.png',
+    image: 'https://he-dable.github.io/Mockup-maker/mockups/mockup2.png',
     canvasSize: {
       width: 789,
       height: 857
@@ -51,7 +51,7 @@ export const mockups: MockupConfig[] = [
   {
     id: 'mockup3',
     name: '목업 3',
-    image: '/mockups/mockup3.png',
+    image: 'https://he-dable.github.io/Mockup-maker/mockups/mockup3.png',
     canvasSize: {
       width: 1108,
       height: 2250
